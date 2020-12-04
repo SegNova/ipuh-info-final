@@ -1,0 +1,26 @@
+/*leaders*/
+.boxleaders{
+    display: inline-flex;
+}
+.boxName{
+    background-color:transparent;
+}
+.boxImg{
+    width:auto;
+    overflow: hidden;
+
+}
+
+.boxImg img{
+    width:35%;
+}
+
+/*news images*/
+.imgfix img{
+    width:70%;
+    margin: 11px 11px 0px 11px;
+}
+
+.get-out{
+    display: none;
+}
