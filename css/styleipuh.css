@@ -8,7 +8,6 @@
 .boxImg{
     width:auto;
     overflow: hidden;
-
 }
 
 .boxImg img{
@@ -23,4 +22,16 @@
 
 .get-out{
     display: none;
+}
+/*Circulares page pdf set up */
+.pdfview{
+    text-align: center;
+}
+
+.pdfview h1{
+    color:white;
+}
+
+button{
+    color:red;
 }
