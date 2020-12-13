@@ -25,3 +25,8 @@
 - Added constitucion, and  Solicitudes de Licencias pages
 
 - Update Several pages with links and documents
+
+### 12-12-20 3:00 PM - 5:00PM (2 hrs.)
+
+- added a working page
+- create page updates and chnage title name for indexs
