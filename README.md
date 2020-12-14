@@ -30,3 +30,7 @@
 
 - added a working page
 - create page updates and chnage title name for indexs
+
+### 12-14-20 2:40PM - 3:400PM (1 hr)
+
+- updated the title for the damas,escuela,jovenes, and leaders structure
