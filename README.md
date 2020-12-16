@@ -36,3 +36,8 @@
 - Updated the title for the damas,escuela,jovenes, and leaders structure.
 - Working District Leaders pages.
 - Edit District Leaders images.
+
+### 12-16-20 1:30PM - 2:40PM (1 hr.)
+
+- Fixed button on distritors
+- Working sol_li
