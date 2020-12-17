@@ -37,7 +37,9 @@
 - Working District Leaders pages.
 - Edit District Leaders images.
 
-### 12-16-20 1:30PM - 2:40PM (1 hr.)
+### 12-16-20 1:30PM - 2:40PM (1 hr.) & 6:00PM - 10:00PM (4 hrs)
 
 - Fixed button on distritors
 - Working sol_li
+  - Update the images
+- Fix menu links for all pages
